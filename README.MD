@@ -13,4 +13,4 @@
 #### Git structure
 
 #### Project members
-The crew members are @EloyRDev, @videnacry, @ezemgaray, @sjgarciatorralba.
+The Team Leader is @videnacry and the crew members are @EloyRDev, @ezemgaray, @sjgarciatorralba.
